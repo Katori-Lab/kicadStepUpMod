@@ -73,3 +73,6 @@ StepUp Videos
 ### License
 
 [GNU AFFERO GENERAL PUBLIC LICENSE](https://www.gnu.org/licenses/agpl-3.0.en.html)
+
+### 追記
+11/16　フォークしました。ここから香取研究室仕様に改変するつもりです。
